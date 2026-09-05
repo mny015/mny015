@@ -1,15 +1,3 @@
-<div align="center">
-
-# Mahendra Nath
-
-### `Dark Cipher`
-
-**Cybersecurity Student · Ethical Hacker · CTF Enthusiast**
-
-</div>
-
-<br>
-
 ```text
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    darkcipher@github
 @@@@@@@@@@@@@@@@@@@@@@@.@@@..@@@@@@@@@@@@@@@@@@@@@@@@@    ─────────────────────────────────────
