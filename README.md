@@ -1,38 +1,102 @@
 <div align="center">
 
+# Mahendra Nath
 
+### `Dark Cipher`
 
-<h1>Hi there 👋 I'm Mahendra Nath </h1>
-## <span>Dark Cipher</span>
+**Cybersecurity Student · Ethical Hacker · CTF Enthusiast**
+
+</div>
+
+<br>
+
+```text
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    darkcipher@github
+@@@@@@@@@@@@@@@@@@@@@@@.@@@..@@@@@@@@@@@@@@@@@@@@@@@@@    ─────────────────────────────────────
+@@@@@@@@@@@@@@@@@@@@@.@@@@..@  .@@@@@@@@@@@@@@@@@@@@@@    Name       Mahendra Nath
+@@@@@@@@@@@@@@@@@@@@.@@@@@@.     @@@@@@@@@@@@@@@@@@@@@    Alias      Dark Cipher
+@@@@@@@@@@@@@@@@@@@.@@@@@@@.     .@@@@@@@@@@@@@@@@@@@@    Role       Cybersecurity Student
+@@@@@@@@@@@@@@@@@@.@@@..-%%.      .@@@@@@@@@@@@@@@@@@@               Ethical Hacker
+@@@@@@@@@@@@@@@@@@.@@@@@@@@@+.     .@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@ ..+@@@@@@@@@@@. .@@@@@@@@@@@@@@@@@@    Degree     BSc (Hons) Ethical Hacking
+@@@@@@@@@@@@@@@@..@@@@@@@@@@@@@@@@@. .@@@@@@@@@@@@@@@@               and Cyber Security
+@@@@@@@@@@@@@@@ .@@@@@@@@@@@@@@@@@@@+ +@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@. @@@@@@@@@@@@@@@@@@@.-@@@@@@@@@@@@@@@@    University Coventry University
+@@@@@@@@@@@@@@@@@ @@@@@@@@@@@@@@@@@.%@@@@@@@@@@@@@@@@@    College    Softwarica College of IT
+@@@@@@@@@@@@@      :@@@@@@@@@@@@@.       @@@@@@@@@@@@@               & E-Commerce, Nepal
+@@@@@@@@@@@@ =@@@.@..@@@@@@@@@@@..@@.##.  +@@@@@@@@@@@
+@@@@@@@@@@@..@@@@@@@@.@@@@@@@@@*@@@@@@@.@. @@@@@@@@@@@    OS         Parrot Security OS
+@@@@@@@@@..@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@. @@@@@@@@@@    Secondary  Kali Linux
+@@@@@@@: .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ : -@@@@@@@    Shell      Bash / Zsh
+@@@@@@. %@@@@@@@@@@%%##*+=-::...........@@@@.:.=@@@@@@    Code       Python
+@@@@@  @@.@@@@.@@@@@@@@@@@@@@@@@@@@@@@@.@@@@@@.  :@@@@    Tools      Wireshark / Nmap / Git
+@@@. . @@@@@@@.@@@@@@@@@@@@@@@@@@@@@@@@.@@@@@@@  .@@@@
+@:   .@@@@@@@@-@@@@@@@@@@@@@@@@@@@@@@@@.@@@@@@@@...@@@    Focus      CTFs / Pentesting
+@@@@@.@@@....@@@@@@@@@@@.@ ..@@@@@@@@@@*@@@@:.  .@@@.@               DFIR / Cryptography
+@@@@@@@@@@@@@@@@@@@@@@@@@....@@@@@@@@@@@@@@@@@..@.@@@@               Linux / Offensive Security
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
+
+<div align="center">
+
+### `> tech --stack`
+
+<img src="https://img.shields.io/badge/Parrot_Security-15E0ED?style=flat-square&logo=parrotsecurity&logoColor=white" alt="Parrot Security">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square" alt="Nmap">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+
+</div>
 
 ---
 
-*Cybersecurity Student · Ethical Hacker · CTF Enthusiast*
+### `> whoami`
 
-📍 Coventry University · Softwarica College, Nepal
+Currently pursuing a **BSc (Hons) Ethical Hacking and Cyber Security** at **Softwarica College of IT & E-Commerce, Nepal**, through **Coventry University**.
+
+I enjoy learning security by actually doing it: solving **CTFs**, exploring **offensive security**, investigating digital evidence, working with Linux systems, and understanding how things break so they can be better defended.
+
+```text
+Interests
+├── Offensive Security
+├── Penetration Testing
+├── Capture The Flag
+├── Digital Forensics & IR
+├── Cryptography
+├── Linux
+└── Security Research
+```
+
+### `> connect`
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mahendra-nath-3a95b134a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mahendra_Nath-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:darkcipher15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-darkcipher15-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://tryhackme.com/p/darkcipher15">
+  <img src="https://img.shields.io/badge/TryHackMe-darkcipher15-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
+
+</p>
 
 ---
 
-###  tech stack
+<div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-###  connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-nath-3a95b134a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkcipher15@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/darkcipher15)
-
-
-
-*btw I use Arch 🐧 & Kali ☠ · stay curious, stay ethical*
+```text
+┌──────────────────────────────────────────────┐
+│  living in the terminal 🦜                   │
+│  stay curious · stay ethical · keep hacking │
+└──────────────────────────────────────────────┘
+```
 
 </div>
